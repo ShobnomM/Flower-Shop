@@ -249,3 +249,37 @@
     padding-bottom: 30px;
     font-size: 12px;
  }
+ .service-title{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: 600;
+    color: #2e2d2d;
+ }
+ .service-container{
+    display: flex;
+    justify-content: center;
+    gap: 190px;
+    padding-top: 60px;
+    
+ }
+ .service{
+    background-color: #fff8ee;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.185);
+    border-radius: 20px;
+ }
+ .img-1{
+    width: 250px;
+ }
+.ser-text{
+    font-size: 18px;
+    color: #585757;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.service-bac{
+   padding-top: 80px;
+    padding-bottom: 50px;
+}
